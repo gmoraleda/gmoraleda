@@ -1,9 +1,13 @@
+## Hi there! 👋
+--
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=gmoraleda&show_icons=true">
 
 </div>
 <br>
+## GitHub stats
 <div align="center">
 
   [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gmoraleda_)](https://twitter.com/gmoraleda_)
