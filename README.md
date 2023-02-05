@@ -1,4 +1,5 @@
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white))] [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gmoraleda/)](https://www.linkedin.com/in/gmoraleda)
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mstdn.social/@gmoraleda)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gmoraleda)
 
 ### Hi there! 👋
 I'm Guillermo: software developer and endurance sports <a href="https://www.strava.com/athletes/1661949" target="_blank">enthusiast</a>.
